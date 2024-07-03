@@ -591,6 +591,7 @@ main {
   background: var(--bg-gradient-onyx);
   border-radius: 14px;
   box-shadow: var(--shadow-1);
+  object-fit: cover;
 }
 
 .testimonials-item-title { margin-bottom: 7px; }
